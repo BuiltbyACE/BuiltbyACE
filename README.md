@@ -21,7 +21,8 @@ I believe I can **impact society through technology** and become a major force i
 - JavaScript
 - Dart
 - HTML5 / CSS3
-
+- C#
+  
 ### Frameworks & Tools
 - Django & Django REST Framework
 - Angular
@@ -29,7 +30,7 @@ I believe I can **impact society through technology** and become a major force i
 - Firebase
 - PostgreSQL
 - Git & GitHub
-
+  ### Curently learning most of C,C++ and a bit of Java 
 ---
 ##  What I Do
 
