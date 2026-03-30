@@ -16,13 +16,13 @@ I believe I can **impact society through technology** and become a major force i
 ---
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Languages
+###  Languages
 - Python
 - JavaScript
 - Dart
 - HTML5 / CSS3
 
-### ⚙️ Frameworks & Tools
+### Frameworks & Tools
 - Django & Django REST Framework
 - Angular
 - Flutter
@@ -48,7 +48,7 @@ I believe I can **impact society through technology** and become a major force i
 
 ---
 
-## 📈 Goals
+## Goals
 
 to actually make a difference in our society and impact lives through my story 
 
@@ -56,7 +56,7 @@ to actually make a difference in our society and impact lives through my story
 
 ##  Let's Connect
 
-- 📧 Email: elijahogato.dev@gmail.com
+- Email: elijahogato.dev@gmail.com
 ---
 
 ##  Something i've learnt in my journey 
