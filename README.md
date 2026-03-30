@@ -14,7 +14,7 @@ I started my tech journey from zero in 2025 where i started with **Full Stack So
 I believe I can **impact society through technology** and become a major force in the tech industry.
 
 ---
-## 🛠️ Tech Stack
+## Tech Stack
 
 ###  Languages
 - Python
