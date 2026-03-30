@@ -1,8 +1,3 @@
-# Hello, I'm Elijah 
-
-Frontend developer | UI/UX designer 
----
-
 ##  About Me
 
 I’m a young innovative developer from Kenya focused on building **systems that solves a problem in our society, continous learning hoping one day i'll impact the society**.
