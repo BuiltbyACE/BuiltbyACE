@@ -56,13 +56,6 @@ The goal is to build things that outlast the version of me that made them.
 ![](https://streak-stats.demolab.com/?user=builtbyACE&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=builtbyACE&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=builtbyACE&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=builtbyACE&icon=0&color=0)](https://visitcount.itsvg.in)
-
 ## What I'm Building Right Now
 
 - **Turbo Pay** - digital fare collection for Nairobi matatus, M-PESA integrated, works offline
@@ -112,26 +105,6 @@ and execute.
 
 The compounding is invisible at first.
 Then irreversible.
-
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BuiltbyACE&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BuiltbyACE&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=BuiltbyACE&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BuiltbyACE&theme=tokyo-night&hide_border=true" />
-</p>
-
 ---
 
 ## Let's Connect
