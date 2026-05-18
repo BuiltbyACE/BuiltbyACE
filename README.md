@@ -91,3 +91,62 @@ The goal is to build things that outlast the version of me that made them.
 ---
 
 ## Current Focus
+---
+
+## What I'm Building Toward
+
+In 3–5 years, I want to be:
+
+- A backend engineer who has shipped systems used by thousands of people in East Africa
+- A founder who understands both the code and the business
+- A contributor to the open-source tools that shape how African developers build
+- Someone who made it without leaving — and whose profile proved it was possible
+
+---
+
+## Philosophy
+
+> *"Build consistently. Not loudly."*
+
+I don't chase hype. I chase depth.  
+Every project teaches me something the tutorial didn't.  
+Every bug is tuition. Every shipped feature is proof.
+
+The compounding is quiet. The results won't be.
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BuiltbyACE&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BuiltbyACE&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=BuiltbyACE&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BuiltbyACE&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## Let's Connect
+
+I'm open to: collaborations, freelance projects, remote work, and conversations about building in Africa.
+
+[![Email](https://img.shields.io/badge/Email-elijahogato.dev%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:elijahogato.dev@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-BuiltbyACE-181717?style=flat-square&logo=github)](https://github.com/BuiltbyACE)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=BuiltbyACE&style=flat-square&color=00C9A7" alt="Profile views"/>
+</p>
+
+<p align="center">
+  <i>Nairobi → everywhere.</i>
+</p>
