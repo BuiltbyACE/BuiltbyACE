@@ -56,22 +56,11 @@ The goal is to build things that outlast the version of me that made them.
 ![](https://streak-stats.demolab.com/?user=builtbyACE&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=builtbyACE&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## What I'm Building Right Now
-
-- **Turbo Pay** - digital fare collection for Nairobi matatus, M-PESA integrated, works offline
-- **Akademia** - multi-tenant school management SaaS built in Django
-- **Casa Liora** - premium e-commerce frontend for sustainable, handcrafted furniture
-- Deepening backend architecture: auth systems, async tasks, API design patterns
-- Exploring AI-assisted development workflows and automation
-
----
-
-## Current Focus
 ---
 
 ## What I'm Building Toward
 
-In 3-5 years, I want to be:
+In 3–5 years, I want to be:
 
 - A backend engineer who has shipped systems used by thousands of people in East Africa
 - A founder who understands both the code and the business
@@ -82,29 +71,32 @@ In 3-5 years, I want to be:
 
 ## Philosophy
 
-> **Build deliberately.**
->**Think independently.**
->**Compound quietly.**
+> *"Build consistently. Not loudly."*
 
-Most people drift.
-I choose direction.
+I don't chase hype. I chase depth.  
+Every project teaches me something the tutorial didn't.  
+Every bug is tuition. Every shipped feature is proof.
 
-Every thought becomes behavior.
-Every behavior becomes identity.
-Every identity creates a future.
+The compounding is quiet. The results won't be.
 
-I do not chase noise, validation, or urgency.
-I build systems, skills, and leverage.
+---
 
-My focus shapes my reality.
-My discipline protects my focus.
+## GitHub Stats
 
-I become what I repeatedly think,
-build,
-and execute.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BuiltbyACE&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BuiltbyACE&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
 
-The compounding is invisible at first.
-Then irreversible.
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=BuiltbyACE&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BuiltbyACE&theme=tokyo-night&hide_border=true" />
+</p>
+
 ---
 
 ## Let's Connect
