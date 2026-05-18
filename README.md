@@ -3,11 +3,11 @@
 
 ---
 
-# Elijah Ogato — `@BuiltbyACE`
+# Elijah Ogato -`@BuiltbyACE`
 
 **Software Engineer in progress. Builder by conviction. Kenyan by identity.**
 
-I started from zero in 2025 — no shortcuts, no shortcuts disguised as shortcuts.  
+I started from zero in 2025 - no shortcuts, no shortcuts disguised as shortcuts.  
 What I have is discipline, a bias toward building, and a clear sense of direction.
 
 I write software that solves real problems: the kind that show up in matatu queues,  
@@ -21,7 +21,7 @@ Currently studying **Computing and Information Systems** while shipping real pro
 ## About Me
 
 I didn't come into tech through a bootcamp shortcut or a YouTube playlist binge.  
-I made a decision in 2025 to become an engineer — and I've been building  
+I made a decision in 2025 to become an engineer - and I've been building  
 every day since, learning in public, failing forward, and compounding quietly.
 
 My technical foundation is Django and Python on the backend, Angular on the frontend,  
@@ -37,9 +37,9 @@ I'm early. But I'm moving with intent.
 ## Vision
 
 Africa's digital infrastructure is being built right now.  
-Not in the future — *now*. And it will be built by people who grew up inside its problems.
+Not in the future - *now*. And it will be built by people who grew up inside its problems.
 
-I want to be one of those builders — shipping fintech tools, education platforms,  
+I want to be one of those builders - shipping fintech tools, education platforms,  
 and automation systems that don't just work abroad and get adapted here,  
 but are *designed here*, for here, and scaled outward.
 
@@ -82,9 +82,9 @@ The goal is to build things that outlast the version of me that made them.
 
 ## What I'm Building Right Now
 
-- **Turbo Pay** — digital fare collection for Nairobi matatus, M-PESA integrated, works offline
-- **Akademia** — multi-tenant school management SaaS built in Django
-- **Casa Liora** — premium e-commerce frontend for sustainable, handcrafted furniture
+- **Turbo Pay** - digital fare collection for Nairobi matatus, M-PESA integrated, works offline
+- **Akademia** - multi-tenant school management SaaS built in Django
+- **Casa Liora** - premium e-commerce frontend for sustainable, handcrafted furniture
 - Deepening backend architecture: auth systems, async tasks, API design patterns
 - Exploring AI-assisted development workflows and automation
 
@@ -95,7 +95,7 @@ The goal is to build things that outlast the version of me that made them.
 
 ## What I'm Building Toward
 
-In 3–5 years, I want to be:
+In 3-5 years, I want to be:
 
 - A backend engineer who has shipped systems used by thousands of people in East Africa
 - A founder who understands both the code and the business
