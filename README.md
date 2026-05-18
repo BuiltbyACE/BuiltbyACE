@@ -106,13 +106,30 @@ In 3-5 years, I want to be:
 
 ## Philosophy
 
-> *"Build consistently. Not loudly."*
+> **Build deliberately.**
+>**Think independently.**
+>**Compound quietly.**
 
-I don't chase hype. I chase depth.  
-Every project teaches me something the tutorial didn't.  
-Every bug is tuition. Every shipped feature is proof.
+Most people drift.
+I choose direction.
 
-The compounding is quiet. The results won't be.
+Every thought becomes behavior.
+Every behavior becomes identity.
+Every identity creates a future.
+
+I do not chase noise, validation, or urgency.
+I build systems, skills, and leverage.
+
+My focus shapes my reality.
+My discipline protects my focus.
+
+I become what I repeatedly think,
+build,
+and execute.
+
+The compounding is invisible at first.
+Then irreversible.
+
 
 ---
 
